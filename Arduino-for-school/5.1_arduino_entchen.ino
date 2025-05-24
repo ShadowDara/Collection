@@ -1,0 +1,65 @@
+void setup() {
+  int a, v, h;
+  a=125;
+  v=250;
+  h=500;
+}
+
+void loop() {
+  noTone(11);
+  delay(4000);
+  tone(11,65);
+  delay(125);
+  tone(11,73);
+  delay(125);
+  tone(11,82);
+  delay(125);
+  tone(11,87);
+  delay(125);
+  tone(11,98);
+  delay(250);
+  tone(11,98);
+  delay(250);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,98);
+  delay(500);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,110);
+  delay(125);
+  tone(11,98);
+  delay(500);
+  tone(11,87);
+  delay(125);
+  tone(11,87);
+  delay(125);
+  tone(11,87);
+  delay(125);
+  tone(11,87);
+  delay(125);
+  tone(11,82);
+  delay(250);
+  tone(11,82);
+  delay(250);
+  tone(11,73);
+  delay(125);
+  tone(11,73);
+  delay(125);
+  tone(11,73);
+  delay(125);
+  tone(11,73);
+  delay(125);
+  tone(11,65);
+  delay(500);
+}

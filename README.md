@@ -19,5 +19,6 @@ You will a new read in probaly every folder!
 
 - Tauri Template
 - Godot Template
+- Arduino-for-school
 
 -->
