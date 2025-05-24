@@ -22,3 +22,8 @@ You will a new read in probaly every folder!
 - Arduino-for-school
 
 -->
+
+
+### Why am i doing this?
+
+I dont want to have such a big messy Repository count
