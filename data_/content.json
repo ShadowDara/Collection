@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "id": "000000",
+            "name": "Godot Save Template",
+            "folder": "/Godot-Save-Template",
+            "description": null,
+            "url": null,
+            "icon": null,
+            "type": "template",
+            "version": false,
+            "tags": [
+                "godot",
+                "template",
+                "save"
+            ]
+        },
+        {
+            "id": "000001",
+            "name": "Tauri Configfile Template",
+            "folder": "/tauri-configfile-template",
+            "description": null,
+            "url": null,
+            "icon": null,
+            "type": "template",
+            "version": false,
+            "tags": [
+                "tauri",
+                "template",
+                "save"
+            ]
+        },
+        {
+            "id": "000002",
+            "name": "Tauri Website App Template",
+            "folder": "/Godot-Save-Template",
+            "description": null,
+            "url": null,
+            "icon": null,
+            "type": "template",
+            "version": false,
+            "tags": [
+                "godot",
+                "template",
+                "web"
+            ]
+        }
+    ],
+    "versions": {}
+}
