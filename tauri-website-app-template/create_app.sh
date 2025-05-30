@@ -1,8 +1,9 @@
 #!/usr/bin/bash
 
-# This script creates a new Tauri app using the template provided in the current directory.
+# This script creates a new Tauri app using the template provided
+# in the current directory.
 
-git checkout Tauri Website App Template
+git checkout Tauri-Website-App-Template
 
 git add .
 

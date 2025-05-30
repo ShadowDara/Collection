@@ -8,7 +8,7 @@ This is a Template which lets you create easily a Tauri app for Website,
 
 Fork the Repository with **ALL** Branches! *IMPORTANT*
 
-then switchz to branch `Tauri Website App Template`
+then switch to branch `Tauri-Website-App-Template`
 and simply open
 
 ```sh
@@ -22,12 +22,12 @@ to another Website
 <meta http-equiv="refresh" content="0.0;url=https://shadowdara.github.io/" />
 ```
 
-then commit the changes on `Tauri Website App Template` and create a tag!
+then commit the changes on `Tauri-Website-App-Template` and create a tag!
 
 You can just copy the commands down below or run `create_app.sh`
 
 ```sh
-git checkout Tauri Website App Template
+git checkout Tauri-Website-App-Template
 git add .
 git commit -m "Initial commit from Tauri Website App Template"
 git push
