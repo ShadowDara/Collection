@@ -4,7 +4,7 @@
             "id": "000000",
             "name": "Godot Save Template",
             "folder": "/Godot-Save-Template",
-            "description": null,
+            "description": "Template for Godot Engine projects which contains an easy configured files save for userdata etc.",
             "url": null,
             "icon": null,
             "type": "template",
@@ -19,7 +19,7 @@
             "id": "000001",
             "name": "Tauri Configfile Template",
             "folder": "/tauri-configfile-template",
-            "description": null,
+            "description": "A Tauri template which contains Rust Code for a config file saved in the user's %APPDATA%\\Roaming folder.",
             "url": null,
             "icon": null,
             "type": "template",
@@ -43,6 +43,101 @@
                 "godot",
                 "template",
                 "web"
+            ]
+        },
+        {
+            "id": "000003",
+            "name": "Arduino Projects from School",
+            "folder": "/Arduino-for-School",
+            "description": "This folder contains various Arduino projects I worked on during school.",
+            "url": null,
+            "icon": null,
+            "type": "scripts",
+            "version": false,
+            "tags": [
+                "arduino",
+                "school"
+            ]
+        },
+        {
+            "id": "000004",
+            "name": "my Config and Dotfiles",
+            "folder": "/Config+Infos",
+            "description": "My personal configuration files and dotfiles for various applications and environments.",
+            "url": null,
+            "icon": null,
+            "type": null,
+            "version": false,
+            "tags": [
+                "config",
+                "dotfiles",
+                "personal"
+            ]
+        },
+        {
+            "id": "000005",
+            "name": "Data Folder of this Repository",
+            "folder": "/data_",
+            "description": "The Data and Information about this repository.",
+            "url": null,
+            "icon": null,
+            "type": null,
+            "version": false,
+            "tags": []
+        },
+        {
+            "id": "000006",
+            "name": "Stylish 404 Page",
+            "folder": "/Stylish-404-Page",
+            "description": "A very stylish 404 page template with HTML and CSS.",
+            "url": null,
+            "icon": null,
+            "type": "template",
+            "version": false,
+            "tags": [
+                "html",
+                "css"
+            ]
+        },
+        {
+            "id": "000007",
+            "name": "Slothbytes Scala Challenge",
+            "folder": "/Slothbytes-Scala",
+            "description": "my solution to the Slothbytes Challenge in Scala",
+            "url": null,
+            "icon": null,
+            "type": "scripts",
+            "version": false,
+            "tags": [
+                "scala",
+                "challenge"
+            ]
+        },
+        {
+            "id": "000009",
+            "name": "Daras Lua Shell",
+            "folder": "/Daras-Lua-Shell",
+            "description": "my solution to the Slothbytes Challenge in Scala",
+            "url": null,
+            "icon": null,
+            "type": "scripts",
+            "version": false,
+            "tags": [
+                "scala",
+                "challenge"
+            ]
+        },
+        {
+            "id": "00000A",
+            "name": "Code Snippets",
+            "folder": "/Code_Snippets",
+            "description": null,
+            "url": null,
+            "icon": null,
+            "type": "scripts",
+            "version": false,
+            "tags": [
+                "snippets"
             ]
         }
     ],

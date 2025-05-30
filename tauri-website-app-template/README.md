@@ -1,5 +1,43 @@
 # Tauri Website App
-for tauri-testing code
+
+This is a Template which lets you create easily a Tauri app for Website,
+**but** this only with Internet because the App is just a redirection!
+
+
+## To start!
+
+Fork the Repository with **ALL** Branches! *IMPORTANT*
+
+then switchz to branch `Tauri Website App Template`
+and simply open
+
+```sh
+./src/index.html
+```
+
+then change the **url** this line which is `https://shadowdara.github.io/`
+to another Website
+
+```html
+<meta http-equiv="refresh" content="0.0;url=https://shadowdara.github.io/" />
+```
+
+then commit the changes on `Tauri Website App Template` and create a tag!
+
+You can just copy the commands down below or run `create_app.sh`
+
+```sh
+git checkout Tauri Website App Template
+git add .
+git commit -m "Initial commit from Tauri Website App Template"
+git push
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+The Worklfow will create a new Release version of the Tauri App in the
+Repository, this will eventually take a while!
+
 
 ## Other
 

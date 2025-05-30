@@ -1,3 +1,8 @@
+# Fil from Tauri Action
+# https://github.com/tauri-apps/tauri-action
+# The MIT License (MIT)
+# Copyright (c) 2018 GitHub, Inc. and contributors
+
 name: 'publish'
 
 on:
