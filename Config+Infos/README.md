@@ -8,7 +8,6 @@ and information and notes about my setup
 <!--$$MD_INDEX$$-->
 
 
-
 ## Name and Icon cfg
 
 Change the name and the icon of windows drive or USB-Stick etc.
@@ -26,7 +25,6 @@ label="117GB"
 - **Label** is the drive name
 
 ***works obviously only for windows!***
-
 
 
 ## Software
@@ -71,11 +69,43 @@ windows explorer. Made by me with Autohotkey.
 
 ### VS Code
 
+- [VS Code Extension File](.vscode/extensions.json)
+
+VS Code saves a Backup of every ever edited file here!
+
+```path
+C:\Users\shado\AppData\Roaming\Code\User\History
+```
+
+---
+
 ### Share X
+
+Hotkey Config file in `ShareX` folder
+
+---
 
 ### Obsidian
 
+Sync Pluigin:
+
+- **Remotly Save**
+
 ---
+
+### Powershell
+
+Disable Execution Policy:
+
+```ps1
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force`
+```
+
+---
+
+## Links
+
+- [Discord Markdown Formatting](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 
 
 
