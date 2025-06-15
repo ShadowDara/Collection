@@ -6,4 +6,4 @@ Download the Repository and paste **only** the `save_template` folder into your 
 
 *Feel free to fork this Repository and create a Pull Request!*
 
-see [LICENSE](LICENSE)
+see [LICENSE](LICENSE) -> no LICENSE!!
